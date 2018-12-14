@@ -1,0 +1,5 @@
+- hosts: default
+  become: yes
+  roles:
+    - role: ansible-role-mysql5.6-amazon-linux
+    - role: ansible-role-phpmyadmin-amazon-linux

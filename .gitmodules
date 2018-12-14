@@ -1,0 +1,9 @@
+[submodule "roles/ansible-role-host-name-and-ssl-amazon-linux"]
+	path = roles/ansible-role-host-name-and-ssl-amazon-linux
+	url = git@github.com:yukihiko-shinoda/ansible-role-host-name-and-ssl-amazon-linux.git
+[submodule "roles/ansible-role-mysql5.6-amazon-linux"]
+	path = roles/ansible-role-mysql5.6-amazon-linux
+	url = git@github.com:yukihiko-shinoda/ansible-role-mysql5.6-amazon-linux.git
+[submodule "roles/ansible-role-phpmyadmin-amazon-linux"]
+	path = roles/ansible-role-phpmyadmin-amazon-linux
+	url = git@github.com:yukihiko-shinoda/ansible-role-phpmyadmin-amazon-linux.git
